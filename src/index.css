@@ -12,3 +12,39 @@
     }
 }
 
+@media only screen and (max-width:380px) {
+    /* Add styles for screens with a minimum width of 768 pixels (md and above) */
+    .abt {
+      
+      padding-top: 16rem;
+    }
+  }
+  
+
+@media only screen and (max-width:380px) {
+    /* Add styles for screens with a minimum width of 768 pixels (md and above) */
+    .portfolio {
+      
+      padding-top: 13rem;
+    }
+  }
+
+  @media only screen and (min-width: 992px) {
+
+    .portfolio {
+      
+        padding-top: 6rem;
+      }
+
+  }
+
+
+  @media only screen and (min-width: 1200px) {
+
+    .portfolio {
+      
+        padding-top: 0;
+      }
+
+  }
+  
