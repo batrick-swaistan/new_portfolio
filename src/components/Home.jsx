@@ -15,7 +15,7 @@ const Home = () => {
                     I'm a <span  className='text-gray-500'>Front End Developer</span>
                 </h2>
                 <p className='text-white py-4 max-w-md'>
-                I'm an Front-End Developer passionate about creating interactive <span  className='text-gray-400'>Web application.</span> <br/>Here is a bit more <span  className='text-gray-400'>about me.</span>
+                Embarking on a journey as a Front-End Virtuoso, I channel my passion into crafting captivating and interactive <span  className='text-gray-400'> web applications.</span><br/>Here is a bit more <span  className='text-gray-400'>about me.</span>
                 </p>
 
                 <div>
